@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Default Worker",
+    "url": "https://raw.githubusercontent.com/gopaybis/cf/refs/heads/main/worker.js",
+    "is_default": true
+  }
+]
