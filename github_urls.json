@@ -1,0 +1,7 @@
+[
+  {
+    "name": "DEFAULT WORKER",
+    "url": "https://raw.githubusercontent.com/nekutiwa/worker-cli/refs/heads/main/_worker.js",
+    "is_default": true
+  }
+]
